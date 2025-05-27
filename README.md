@@ -12,17 +12,31 @@ A collection of useful MakeCode Extensions:
   - github:riknoll/arcade-mini-menu#v0.0.1,
 - arcade-camera-offset:
   - github:riknoll/arcade-camera-offset#50dcab790691a38799aa99390f9cced2d62fbc21,
-- TilemapPath: github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca,
-- arcade-sprite-util: github:jwunderl/arcade-sprite-util#v0.4.1,
-- smaller-tilemaps: github:riknoll/smaller-tilemaps#42b1786ff3aafd61aa89ea9b038230fc039d2af3,
-- small-tilemaps: github:riknoll/small-tilemaps#v0.0.1,
-- tilemaps: github:microsoft/pxt-tilemaps#v1.12.0,
-- arcade-tile-util: github:microsoft/arcade-tile-util#v1.2.0,
-- tileData: github:neintoes/arcade-tile-data#2b02eb000bcc65dea0dc45a0fa8e4e47165643c1,
-- arcade-sprite-data: github:microsoft/arcade-sprite-data#v0.2.1,
-- pxt-status-bar: github:jwunderl/pxt-status-bar#v0.4.2,
-- Timers: github:microsoft/arcade-timers#v1.1.0,
-- pxt-countup: github:shakao/pxt-countup#v0.0.2,
-- pxt-sight: github:felixtsu/pxt-sight#v0.2.2,
-- arcade-fancy-text: github:riknoll/arcade-fancy-text#v0.1.1,
-- Extra Effects: github:alexszeto/extra-effects#v3.1.0,
+- TilemapPath:
+  - github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca,
+- arcade-sprite-util:
+  - github:jwunderl/arcade-sprite-util#v0.4.1,
+- smaller-tilemaps:
+  - github:riknoll/smaller-tilemaps#42b1786ff3aafd61aa89ea9b038230fc039d2af3,
+- small-tilemaps:
+  - github:riknoll/small-tilemaps#v0.0.1,
+- tilemaps:
+  - github:microsoft/pxt-tilemaps#v1.12.0,
+- arcade-tile-util:
+  - github:microsoft/arcade-tile-util#v1.2.0,
+- tileData:
+  - github:neintoes/arcade-tile-data#2b02eb000bcc65dea0dc45a0fa8e4e47165643c1,
+- arcade-sprite-data:
+  - github:microsoft/arcade-sprite-data#v0.2.1,
+- pxt-status-bar:
+  - github:jwunderl/pxt-status-bar#v0.4.2,
+- Timers:
+  - github:microsoft/arcade-timers#v1.1.0,
+- pxt-countup:
+  - github:shakao/pxt-countup#v0.0.2,
+- pxt-sight:
+  - github:felixtsu/pxt-sight#v0.2.2,
+- arcade-fancy-text:
+  - github:riknoll/arcade-fancy-text#v0.1.1,
+- Extra Effects:
+  - github:alexszeto/extra-effects#v3.1.0,
