@@ -1,11 +1,17 @@
 # MakeCode-Extensions
 A collection of useful MakeCode Extensions:
-- Arcade Sprite Utilities: github:jwunderl/arcade-sprite-util
-- BetterSettings: github:sargedev/bettersettings#2023.5.1,
-- BetterArrays: github:sargedev/betterarrays#v1.2.1,
-- pxt-blur: github:kiwiphoenix364/pxt-blur#v3.1.0,
-- arcade-mini-menu: github:riknoll/arcade-mini-menu#v0.0.1,
-- arcade-camera-offset: github:riknoll/arcade-camera-offset#50dcab790691a38799aa99390f9cced2d62fbc21,
+- Arcade Sprite Utilities:
+  - github:jwunderl/arcade-sprite-util
+- BetterSettings:
+  - github:sargedev/bettersettings#2023.5.1,
+- BetterArrays:
+  - github:sargedev/betterarrays#v1.2.1,
+- pxt-blur:
+  - github:kiwiphoenix364/pxt-blur#v3.1.0,
+- arcade-mini-menu:
+  - github:riknoll/arcade-mini-menu#v0.0.1,
+- arcade-camera-offset:
+  - github:riknoll/arcade-camera-offset#50dcab790691a38799aa99390f9cced2d62fbc21,
 - TilemapPath: github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca,
 - arcade-sprite-util: github:jwunderl/arcade-sprite-util#v0.4.1,
 - smaller-tilemaps: github:riknoll/smaller-tilemaps#42b1786ff3aafd61aa89ea9b038230fc039d2af3,
