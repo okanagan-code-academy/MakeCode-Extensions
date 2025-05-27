@@ -2,41 +2,45 @@
 A collection of useful MakeCode Extensions:
 - Arcade Sprite Utilities:
   - github:jwunderl/arcade-sprite-util
-- BetterSettings:
-  - github:sargedev/bettersettings#2023.5.1,
-- BetterArrays:
-  - github:sargedev/betterarrays#v1.2.1,
-- pxt-blur:
-  - github:kiwiphoenix364/pxt-blur#v3.1.0,
-- arcade-mini-menu:
-  - github:riknoll/arcade-mini-menu#v0.0.1,
-- arcade-camera-offset:
+- Better Settings:
+  - github:sargedev/bettersettings#2023.5.1
+- Better Arrays:
+  - github:sargedev/betterarrays#v1.2.1
+- Blur:
+  - github:kiwiphoenix364/pxt-blur#v3.1.0
+- Mini Menu:
+  - github:riknoll/arcade-mini-menu#v0.0.1
+- Camera Offset:
   - github:riknoll/arcade-camera-offset#50dcab790691a38799aa99390f9cced2d62fbc21,
-- TilemapPath:
+- Tilemap Path:
   - github:UnsignedArduino/TilemapPath#27ff80b905e9a311d3e36aecbf38fd1fd23af8ca,
-- arcade-sprite-util:
-  - github:jwunderl/arcade-sprite-util#v0.4.1,
-- smaller-tilemaps:
+- Sprite Utilities:
+  - github:jwunderl/arcade-sprite-util#v0.4.1
+- Smaller Tilemaps:
   - github:riknoll/smaller-tilemaps#42b1786ff3aafd61aa89ea9b038230fc039d2af3,
-- small-tilemaps:
-  - github:riknoll/small-tilemaps#v0.0.1,
-- tilemaps:
-  - github:microsoft/pxt-tilemaps#v1.12.0,
-- arcade-tile-util:
-  - github:microsoft/arcade-tile-util#v1.2.0,
-- tileData:
+- Small Tilemaps:
+  - github:riknoll/small-tilemaps#v0.0.1
+- Tilemaps:
+  - github:microsoft/pxt-tilemaps#v1.12.0
+- Tile Utility:
+  - github:microsoft/arcade-tile-util#v1.2.0
+- Tile Data:
   - github:neintoes/arcade-tile-data#2b02eb000bcc65dea0dc45a0fa8e4e47165643c1,
-- arcade-sprite-data:
-  - github:microsoft/arcade-sprite-data#v0.2.1,
-- pxt-status-bar:
-  - github:jwunderl/pxt-status-bar#v0.4.2,
+- Sprite Data:
+  - github:microsoft/arcade-sprite-data#v0.2.1
+- Status Bar:
+  - github:jwunderl/pxt-status-bar#v0.4.2
 - Timers:
-  - github:microsoft/arcade-timers#v1.1.0,
-- pxt-countup:
-  - github:shakao/pxt-countup#v0.0.2,
-- pxt-sight:
-  - github:felixtsu/pxt-sight#v0.2.2,
-- arcade-fancy-text:
-  - github:riknoll/arcade-fancy-text#v0.1.1,
+  - github:microsoft/arcade-timers#v1.1.0
+- Count Up:
+  - github:shakao/pxt-countup#v0.0.2
+- Sight:
+  - github:felixtsu/pxt-sight#v0.2.2
+- Fancy Text:
+  - github:riknoll/arcade-fancy-text#v0.1.1
 - Extra Effects:
-  - github:alexszeto/extra-effects#v3.1.0,
+  - github:alexszeto/extra-effects#v3.1.0
+- Image Transform (for rotations):
+  - github:robo-technical-group/pxt-arcade-image-transform#v1.0.9
+- Rotation Sprite:
+  - github:chasemor/pxt-arcade-rotsprite#b5b91d0f67e4df90ec703c36875c30afffbe653c
